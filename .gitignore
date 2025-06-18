@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.pkl
+*.log
+*.db
+*.sqlite3
+.env
+.env.*
+*.egg-info/
+.streamlit/
+.cache/
+*.bin
+*.h5
+*.pt
+*.npy
+*.onnx
+sentence-transformers/
