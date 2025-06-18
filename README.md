@@ -27,7 +27,7 @@
 ```bash
 git clone https://github.com/NoxiousTab/privacy_vault.git
 cd privacy_vault
-
+```
 ### 2. Set up your environment
 ```pip install -r requirements.txt
 ```
