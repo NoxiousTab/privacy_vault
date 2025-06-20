@@ -1,5 +1,3 @@
-# tests/semantic_search/test_semantic_search.py
-
 from core.embedding import Embedder
 from core.indexer import VectorIndex
 from core.semantic_search import SemanticSearchEngine
