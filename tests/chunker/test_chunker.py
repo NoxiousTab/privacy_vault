@@ -1,5 +1,3 @@
-# tests/chunker/test_chunker.py
-
 import pytest
 from core.chunker import chunk_text
 
