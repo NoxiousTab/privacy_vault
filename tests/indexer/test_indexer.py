@@ -1,5 +1,3 @@
-# tests/indexer/test_indexer.py
-
 import pytest
 import numpy as np
 from core.indexer import VectorIndex
